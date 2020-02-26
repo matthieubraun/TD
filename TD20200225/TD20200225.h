@@ -1,16 +1,14 @@
 /**
- \file	TD20200225.h
- \brief	header file for labo01.c
- \author	Pierre BRESSY
- \version	1.0
- \date	11.10.2019, 10:18:09
- \details
-
- **/
+ * \file TD20200225.h
+ * \version 1.0
+ * \date 25/02/2020 - 15:33:28
+ * \brief header to TD20200225
+ */
 
 #pragma once
 #include <stdint.h>
 #include <stdio.h>
+#include <stdlib.h>
 
 // preprocessor symbols
 
