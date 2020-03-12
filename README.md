@@ -12,3 +12,4 @@ Il est mis à jour à la fin de chaque cours.
 | TD20200227 | read data from a text file (line by line or by format) |
 | TD20200303 | text file versus binary file |
 | TD20200310 | read binary file header in structure|
+| TD20200312 | dynamic  memory allocation |
