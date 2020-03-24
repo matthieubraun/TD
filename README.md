@@ -13,4 +13,4 @@ Il est mis à jour à la fin de chaque cours.
 | TD20200303 | text file versus binary file |
 | TD20200310 | read binary file header in structure|
 | TD20200312 | dynamic memory allocation |
-| TD20200324 | Tet processing and  dynamic memory allocation|  |
+| TD20200324 | Text processing and  dynamic memory allocation|  |
