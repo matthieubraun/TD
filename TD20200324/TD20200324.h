@@ -32,5 +32,7 @@ typedef enum
 // unions types
 
 // functions prototypes
+uint32_t wc(char *s);
+void wstat(char *s);
 
 // externals
