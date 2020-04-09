@@ -11,7 +11,7 @@
 #include <stdlib.h>
 
 // preprocessor symbols
-#define N 30
+#define N 32
 
 // preprocessor macros
 
